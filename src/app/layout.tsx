@@ -24,8 +24,8 @@ export const metadata: Metadata = {
     siteName: config.siteTitle,
   },
   twitter: {
-    site: "@maddhruv",
-    creator: "@maddhruv",
+    site: "@dhruvjainin",
+    creator: "@dhruvjainin",
     title: config.siteTitle,
     description: config.description,
   },
