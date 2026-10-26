@@ -23,7 +23,7 @@ export const Footer = () => {
                 <li className="mb-4"></li>
                 <li className="mb-4">
                   <Link
-                    href="https://github.com/maddhruv"
+                    href="https://github.com/dhruvjainin"
                     target="_blank"
                     className="flex gap-1 hover:underline hover:text-gray-300 items-center"
                   >
@@ -43,7 +43,7 @@ export const Footer = () => {
 
                 <li className="mb-4">
                   <Link
-                    href="https://twitter.com/maddhruv"
+                    href="https://x.com/dhruvjainin"
                     target="_blank"
                     className="flex gap-1 hover:underline hover:text-gray-300 items-center"
                   >
